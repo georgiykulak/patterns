@@ -1,1 +1,1 @@
-# gof_patterns
+# Popular patterns implementations
